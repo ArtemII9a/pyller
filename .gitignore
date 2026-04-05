@@ -1,0 +1,5 @@
+# Ignore
+*    
+# Allow
+!.gitignore
+!pyller.py
